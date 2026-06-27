@@ -1,4 +1,4 @@
-# 📋 Java ToDo App
+# 📋 Android ToDo App
 
 A simple Android ToDo application developed using **Java** and **Android Studio**. The application helps users organize daily tasks through a clean interface with user authentication and local database storage.
 
