@@ -54,3 +54,22 @@ model/
 Diploma in Computer Engineering (2026)
 
 Currently learning Shopify Development and Frontend Development.
+
+---
+
+## 📸 Application Screenshots
+
+### Splash Screen
+![Splash Screen](images/splash.png)
+
+### Login Screen
+![Login Screen](images/login.png)
+
+### Registration Screen
+![Registration Screen](images/register.png)
+
+### Home Screen
+![Home Screen](images/home.png)
+
+### Add Task Screen
+![Add Task Screen](images/add-task.png)
