@@ -60,10 +60,10 @@ Currently learning Shopify Development and Frontend Development.
 ## 📸 Application Screenshots
 
 ### Splash Screen
-![Splash Screen](images/splash.png)
+![Splash Screen](images/splash.jpg)
 
 ### Login Screen
-![Login Screen](images/login.png)
+![Login Screen](images/login.jpg)
 
 ### Registration Screen
 ![Registration Screen](images/register.png)
