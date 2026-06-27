@@ -66,10 +66,16 @@ Currently learning Shopify Development and Frontend Development.
 ![Login Screen](images/login.jpg)
 
 ### Registration Screen
-![Registration Screen](images/register.png)
+![Registration Screen](images/register.jpg)
 
 ### Home Screen
-![Home Screen](images/home.png)
+![Home Screen](images/home.jpg)
 
 ### Add Task Screen
-![Add Task Screen](images/add-task.png)
+![Add Task Screen](images/add-task.jpg)
+
+### Delete Task Screen
+![Add Task Screen](images/delete-task.jpg)
+
+### Edit Task Screen
+![Add Task Screen](images/edit-task.jpg)
